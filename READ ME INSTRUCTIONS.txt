@@ -1,0 +1,10 @@
+Requires multisim 14.2 + 
+Main designs in the root folder
+
+Experimental schematics are usually stand alone and reflect my thought process as I am comming up with the final design. So you may find stand alone comparators etc. 
+-----------------------------------
+
+Important simulation settings:
+Click simulate --> Interactive simulation --> set initial conditions to zero!
+
+The initial simulation conditions must be set to zero or the the op amps might not behave as expected!
